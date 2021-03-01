@@ -1,1 +1,2 @@
 - add fishing animation
+- add idle animation
