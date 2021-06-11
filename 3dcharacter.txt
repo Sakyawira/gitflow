@@ -1,3 +1,4 @@
 - add fishing animation
 - add idle animation
+- add new class 1
 - add new class
